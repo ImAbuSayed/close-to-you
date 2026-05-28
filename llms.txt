@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-you/) |
+| **Get License** | [Get a Licensing Quote for Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull the shadows down, let the world outside just fade
+> I only want the space where our promises are made
+> There’s a quiet fire burning in the deep of the night
+> And being close to you is the only thing that's right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b42addb8356c270d41a510347acf564d26d641602865b16cfcd700edcb5f34b7` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

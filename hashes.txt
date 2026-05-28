@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Close To You
+
+This log tracks the cryptographic history and versioning for the song **Close To You** (close-to-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:50:04.133131 | `v1` | `b42addb8356c270d41a510347acf564d26d641602865b16cfcd700edcb5f34b7` | `8ee182fb930e806227add6cebbc9e67a58f8c4bee601c54501ce4faf128314f5` | `2026-05-29_close-to-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
